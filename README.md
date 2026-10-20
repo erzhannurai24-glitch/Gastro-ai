@@ -92,3 +92,8 @@ NEXT_PUBLIC_API_URL=http://localhost:8000
 ## Demo behavior
 
 The UI uses a demo customer ID (`1`) and seeded sample orders. Authentication is intentionally not represented as production-ready: before real deployment, add proper password hashing, JWT/session handling, role-based access control, audit logging, migrations, rate limits, and privacy/security review. Do not store real medical or allergy data until access controls and data protection have been implemented.
+
+
+git add .
+git commit -m "some comment"
+git push
